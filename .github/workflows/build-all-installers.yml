@@ -1,0 +1,51 @@
+name: Build latest version setup installer
+
+on:
+  workflow_dispatch:
+  release: 
+    types: [published]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    permissions: write-all
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Inno Setup
+        run: choco install innosetup --yes
+
+      - name: Install IDP plugin
+        run: |
+          $idpFetchAddress = "https://github.com/PeterDaveHello/inno-download-plugin/releases/download/v1.5.1/idpsetup-1.5.1.exe"
+          Invoke-WebRequest -Uri $idpFetchAddress -OutFile "$env:TEMP\idpsetup-1.5.1.exe"
+          Start-Process -FilePath "$env:TEMP\idpsetup-1.5.1.exe" -ArgumentList "/VERYSILENT /DIR=""C:\Program Files (x86)\Inno Setup 6""" -Wait
+        shell: powershell
+
+      - name: Get latest release tag name (high tech)
+        id: get_tag
+        run: |
+          $response = Invoke-RestMethod -Uri "https://api.github.com/repos/mikkopatama/punzonfont/releases/latest"
+          $tag = $response.tag_name
+          echo "NEWEST_RELEASE_TAG_NAME=$tag" >> $env:GITHUB_OUTPUT
+        shell: powershell
+
+      - name: Compile all installers
+        run: |
+         iscc /DAppVersion=${{ steps.get_tag.outputs.NEWEST_RELEASE_TAG_NAME }} Installers/Windows/Scripts/Punzon-win-installscript.iss
+
+      - name: Upload installer to Release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: Installers/Windows/Scripts/Output/Punzon-Win-*.exe
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload installer as workflow artifact (manual run)
+        if: github.event_name == 'workflow_dispatch'
+        uses: actions/upload-artifact@v4
+        with:
+          name: Punzon-Win-installers
+          path: Installers/Windows/Scripts/Output/Punzon-Win-*.exe
+          retention-days: 7
