@@ -12,20 +12,20 @@
     "dashedBarlineThickness": 0.16,
     "hairpinThickness": 0.16,
     "legerLineExtension": 0.24,
-    "legerLineThickness": 0.17,
+    "legerLineThickness": 0.15,
     "lyricLineThickness": 0.1,
     "octaveLineThickness": 0.14,
     "pedalLineThickness": 0.16,
     "repeatBarlineDotSeparation": 0.16,
     "repeatEndingLineThickness": 0.16,
     "slurEndpointThickness": 0.09,
-    "slurMidpointThickness": 0.25,
-    "staffLineThickness": 0.12,
+    "slurMidpointThickness": 0.21,
+    "staffLineThickness": 0.1,
     "stemThickness": 0.09,
     "subBracketThickness": 0.16,
     "textEnclosureThickness": 0.16,
     "thickBarlineThickness": 0.5,
-    "thinBarlineThickness": 0.15,
+    "thinBarlineThickness": 0.13,
     "tieEndpointThickness": 0.09,
     "tieMidpointThickness": 0.2,
     "tupletBracketThickness": 0.11,
@@ -296,9 +296,9 @@
       ]
     },
     "accidentalSharp": {
-      "cutOutSW": [
-        0.14,
-        -0.824
+      "cutOutNE": [
+        0.848,
+        0.796
       ],
       "cutOutNW": [
         0.132,
@@ -308,9 +308,9 @@
         0.868,
         -0.604
       ],
-      "cutOutNE": [
-        0.848,
-        0.796
+      "cutOutSW": [
+        0.14,
+        -0.824
       ]
     },
     "accidentalDoubleFlat": {
@@ -332,23 +332,23 @@
       ]
     },
     "accidentalNaturalSharp": {
-      "cutOutSE": [
-        1.668,
-        -0.604
-      ],
       "cutOutNE": [
         1.648,
         0.796
+      ],
+      "cutOutSE": [
+        1.668,
+        -0.604
       ]
     },
     "accidentalSharpSharp": {
-      "cutOutSE": [
-        1.948,
-        -0.604
-      ],
       "cutOutNE": [
         1.928,
         0.796
+      ],
+      "cutOutSE": [
+        1.948,
+        -0.604
       ]
     },
     "accidentalBuyukMucennebSharp": {
@@ -901,11 +901,11 @@
     },
     "timeSig6": {
       "bBoxNE": [
-        1.412,
+        1.4,
         0.984
       ],
       "bBoxSW": [
-        0.068,
+        0.08,
         -0.964
       ]
     },
@@ -921,11 +921,11 @@
     },
     "timeSig8": {
       "bBoxNE": [
-        1.379,
+        1.367,
         1.016
       ],
       "bBoxSW": [
-        0.068,
+        0.08,
         -0.996
       ]
     },
@@ -2961,101 +2961,101 @@
     },
     "tuplet0": {
       "bBoxNE": [
-        0.841,
-        1.18
+        0.976,
+        1.268
       ],
       "bBoxSW": [
-        0.005,
-        0.0
+        0.07,
+        -0.008
       ]
     },
     "tuplet1": {
       "bBoxNE": [
-        0.74,
-        1.2
+        0.773,
+        1.34
       ],
       "bBoxSW": [
-        -0.078,
-        0.0
+        -0.112,
+        0.044
       ]
     },
     "tuplet2": {
       "bBoxNE": [
-        1.067,
-        1.18
+        1.107,
+        1.312
       ],
       "bBoxSW": [
-        0.068,
-        0.0
+        0.028,
+        0.036
       ]
     },
     "tuplet3": {
       "bBoxNE": [
-        1.076,
-        1.228
+        1.128,
+        1.372
       ],
       "bBoxSW": [
-        0.108,
-        -0.016
+        0.056,
+        0.0
       ]
     },
     "tuplet4": {
       "bBoxNE": [
-        0.988,
-        1.208
+        1.024,
+        1.296
       ],
       "bBoxSW": [
-        0.115,
-        0.004
+        0.079,
+        -0.004
       ]
     },
     "tuplet5": {
       "bBoxNE": [
-        1.104,
-        1.2
+        1.143,
+        1.296
       ],
       "bBoxSW": [
-        0.183,
+        0.146,
         0.0
       ]
     },
     "tuplet6": {
       "bBoxNE": [
-        1.049,
-        1.212
+        1.082,
+        1.292
       ],
       "bBoxSW": [
-        0.238,
-        0.016
+        0.204,
+        0.0
       ]
     },
     "tuplet7": {
       "bBoxNE": [
-        1.095,
-        1.2
+        1.13,
+        1.308
       ],
       "bBoxSW": [
-        0.241,
-        0.004
+        0.205,
+        0.016
       ]
     },
     "tuplet8": {
       "bBoxNE": [
-        1.15,
-        1.208
+        1.068,
+        1.3
       ],
       "bBoxSW": [
-        0.236,
-        0.004
+        0.079,
+        0.0
       ]
     },
     "tuplet9": {
       "bBoxNE": [
-        0.91,
-        1.176
+        0.94,
+        1.272
       ],
       "bBoxSW": [
-        0.172,
+        0.14,
         0.0
       ]
     },
