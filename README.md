@@ -3,6 +3,8 @@ Punzón is a SMuFL compliant music font inspired by Spanish music engraving, esp
 
 The primary creator of the font is Mikko Patama. [Buy me a coffee](https://buymeacoffee.com/mikkopatama) if you wish to support this project.
 
+<img src="/PunzonSC1.png" />
+
 ## Files
 
 | File | Description |
