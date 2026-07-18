@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dynamicSforzandoPiano" format="2">
+  <advance width="1327"/>
+  <unicode hex="E537"/>
+  <outline>
+    <component base="dynamicForte" xOffset="303"/>
+    <component base="dynamicSforzando" xOffset="9"/>
+    <component base="dynamicPiano" xOffset="500"/>
+    <component base="dynamicPiano" xOffset="910"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-14 12:17:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

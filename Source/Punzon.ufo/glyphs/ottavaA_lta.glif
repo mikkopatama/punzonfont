@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ottavaAlta" format="2">
+  <advance width="866"/>
+  <unicode hex="E511"/>
+  <note>
+uniE511
+</note>
+  <outline>
+    <component base="ottava" yOffset="-3"/>
+    <component base="octaveSuperscriptV" xOffset="400" yOffset="-63"/>
+    <component base="octaveSuperscriptA" xOffset="633" yOffset="-65"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-15 08:03:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

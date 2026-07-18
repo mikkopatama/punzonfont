@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accidentalQuarterToneFlatStein" format="2">
+  <advance width="218"/>
+  <unicode hex="E280"/>
+  <note>
+uniE280
+</note>
+  <outline>
+    <component base="accidentalFlat" xScale="-1" xOffset="220"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-14 22:27:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

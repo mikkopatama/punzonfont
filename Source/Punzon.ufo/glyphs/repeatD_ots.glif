@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="repeatDots" format="2">
+  <advance width="78"/>
+  <unicode hex="E043"/>
+  <note>
+uniE043
+</note>
+  <outline>
+    <contour>
+      <point x="39" y="633" type="curve" smooth="yes"/>
+      <point x="17" y="633"/>
+      <point x="0" y="615"/>
+      <point x="0" y="593" type="curve" smooth="yes"/>
+      <point x="0" y="572"/>
+      <point x="17" y="554"/>
+      <point x="39" y="554" type="curve" smooth="yes"/>
+      <point x="60" y="554"/>
+      <point x="78" y="572"/>
+      <point x="78" y="593" type="curve" smooth="yes"/>
+      <point x="78" y="615"/>
+      <point x="60" y="633"/>
+    </contour>
+    <contour>
+      <point x="39" y="434" type="curve" smooth="yes"/>
+      <point x="17" y="434"/>
+      <point x="0" y="417"/>
+      <point x="0" y="395" type="curve" smooth="yes"/>
+      <point x="0" y="373"/>
+      <point x="17" y="355"/>
+      <point x="39" y="355" type="curve" smooth="yes"/>
+      <point x="60" y="355"/>
+      <point x="78" y="373"/>
+      <point x="78" y="395" type="curve" smooth="yes"/>
+      <point x="78" y="417"/>
+      <point x="60" y="434"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-13 12:15:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

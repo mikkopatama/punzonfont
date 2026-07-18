@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="metNoteHalfUp" format="2">
+  <advance width="343"/>
+  <unicode hex="ECA3"/>
+  <note>
+uniECA3
+</note>
+  <outline>
+    <contour>
+      <point x="313" y="108" type="line"/>
+      <point x="343" y="72" type="line"/>
+      <point x="343" y="688" type="line"/>
+      <point x="313" y="688" type="line"/>
+    </contour>
+    <component base="noteheadHalf" xScale="1.1716" yScale="1.1716" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-17 13:28:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

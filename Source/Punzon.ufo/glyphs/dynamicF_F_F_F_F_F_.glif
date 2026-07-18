@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dynamicFFFFFF" format="2">
+  <advance width="1826"/>
+  <unicode hex="E533"/>
+  <outline>
+    <component base="dynamicForte"/>
+    <component base="dynamicForte" xOffset="305"/>
+    <component base="dynamicForte" xOffset="609"/>
+    <component base="dynamicForte" xOffset="913"/>
+    <component base="dynamicForte" xOffset="1218"/>
+    <component base="dynamicForte" xOffset="1522"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 12:29:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

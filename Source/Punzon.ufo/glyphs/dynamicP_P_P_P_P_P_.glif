@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dynamicPPPPPP" format="2">
+  <advance width="2528"/>
+  <unicode hex="E527"/>
+  <outline>
+    <component base="dynamicPiano"/>
+    <component base="dynamicPiano" xOffset="420"/>
+    <component base="dynamicPiano" xOffset="840"/>
+    <component base="dynamicPiano" xOffset="1260"/>
+    <component base="dynamicPiano" xOffset="1680"/>
+    <component base="dynamicPiano" xOffset="2100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 12:32:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

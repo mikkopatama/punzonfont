@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE08B" format="2">
+  <advance width="437"/>
+  <unicode hex="E08B"/>
+  <note>
+uniE08B
+</note>
+  <outline>
+    <contour>
+      <point x="202" y="-344" type="curve"/>
+      <point x="202" y="-344" type="line"/>
+      <point x="215" y="-344"/>
+      <point x="221" y="-337"/>
+      <point x="221" y="-321" type="curve" smooth="yes"/>
+      <point x="221" y="323" type="line" smooth="yes"/>
+      <point x="221" y="339"/>
+      <point x="215" y="346"/>
+      <point x="202" y="346" type="curve"/>
+      <point x="202" y="346" type="line"/>
+      <point x="190" y="346"/>
+      <point x="182" y="339"/>
+      <point x="182" y="323" type="curve" smooth="yes"/>
+      <point x="182" y="-321" type="line" smooth="yes"/>
+      <point x="182" y="-337"/>
+      <point x="190" y="-344"/>
+    </contour>
+    <component base="timeSigCommon"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-13 14:12:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dynamicForzando" format="2">
+  <advance width="631"/>
+  <unicode hex="E535"/>
+  <outline>
+    <component base="dynamicForte" xOffset="-7"/>
+    <component base="dynamicZ" xOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 12:26:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

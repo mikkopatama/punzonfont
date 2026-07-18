@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gClef8vbParens" format="2">
+  <advance width="639"/>
+  <unicode hex="E057"/>
+  <note>
+uniE050
+</note>
+  <outline>
+    <component base="clef8" xOffset="210" yOffset="-898"/>
+    <component base="gClef"/>
+    <component base="accidentalParensLeft" xScale="0.7462" yScale="0.7462" xOffset="153" yOffset="-766"/>
+    <component base="accidentalParensRight" xScale="0.7434" xyScale="-0.065" yScale="0.7434" yxScale="0.065" xOffset="438" yOffset="-753"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-14 11:54:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

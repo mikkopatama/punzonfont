@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="clef15" format="2">
+  <advance width="333"/>
+  <unicode hex="E07E"/>
+  <note>
+uniE07E
+</note>
+  <outline>
+    <component base="timeSig5" xScale="0.4849" yScale="0.4849" yxScale="0.1299" xOffset="148" yOffset="122"/>
+    <component base="timeSig1" xScale="0.4087" yScale="0.4849" yxScale="0.1542" xOffset="30" yOffset="122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-14 12:07:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

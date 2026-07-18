@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="articMarcatoTenutoBelow" format="2">
+  <advance width="289"/>
+  <unicode hex="E4BD"/>
+  <note>
+uniE4BD
+</note>
+  <outline>
+    <component base="articMarcatoAbove" xScale="-1" yScale="-1" xOffset="273" yOffset="-176"/>
+    <component base="articTenutoBelow"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-13 12:09:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gClef8vbCClef" format="2">
+  <advance width="817"/>
+  <unicode hex="E056"/>
+  <note>
+uniE056
+</note>
+  <outline>
+    <component base="gClef"/>
+    <component base="cClefCombining" xOffset="590" yOffset="380"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-14 12:02:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

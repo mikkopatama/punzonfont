@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cClefChange" format="2">
+  <advance width="549"/>
+  <unicode hex="E07B"/>
+  <note>
+cClefChange
+</note>
+  <outline>
+    <component base="cClef" xScale="0.8" yScale="0.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-17 08:07:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

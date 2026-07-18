@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dynamicRinforzando2" format="2">
+  <advance width="863"/>
+  <unicode hex="E53D"/>
+  <outline>
+    <component base="dynamicForte" xOffset="215"/>
+    <component base="dynamicZ" xOffset="532"/>
+    <component base="dynamicRinforzando" xOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 12:27:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>

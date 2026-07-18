@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="note64thUp" format="2">
+  <advance width="563"/>
+  <unicode hex="E1DD"/>
+  <note>
+uniE1DD
+</note>
+  <outline>
+    <component base="noteheadBlack" xOffset="37" yOffset="31"/>
+    <contour>
+      <point x="331" y="521" type="line"/>
+      <point x="302" y="522" type="line"/>
+      <point x="302" y="112" type="line"/>
+      <point x="331" y="87" type="line"/>
+    </contour>
+    <component base="flag64thUp" xOffset="302" yOffset="920"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-15 15:07:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

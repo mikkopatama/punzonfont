@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ornamentTurnInverted" format="2">
+  <advance width="390"/>
+  <unicode hex="E568"/>
+  <note>
+uniE568
+</note>
+  <outline>
+    <component base="ornamentTurn" xScale="-1" xOffset="390"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 17:51:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

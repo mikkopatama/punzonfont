@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="keyboardPedalParensRight" format="2">
+  <advance width="167"/>
+  <unicode hex="E677"/>
+  <note>
+uniE677
+</note>
+  <outline>
+    <component base="accidentalParensRight" xScale="1.6289" yScale="1.6289" yOffset="286"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-17 18:25:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

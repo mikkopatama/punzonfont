@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="articMarcatoStaccatoAbove" format="2">
+  <advance width="257"/>
+  <unicode hex="E4AE"/>
+  <note>
+uniE4AE
+</note>
+  <outline>
+    <component base="articMarcatoAbove" yOffset="81"/>
+    <component base="articStaccatoAbove" xOffset="98"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-13 14:28:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accidentalTripleSharp" format="2">
+  <advance width="523"/>
+  <unicode hex="E265"/>
+  <note>
+uniE265
+</note>
+  <outline>
+    <component base="accidentalSharp"/>
+    <component base="accidentalDoubleSharp" xOffset="260"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 10:25:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

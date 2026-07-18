@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="metNote16thUp" format="2">
+  <advance width="522"/>
+  <unicode hex="ECA9"/>
+  <note>
+uniECA9
+</note>
+  <outline>
+    <component base="noteheadBlack" xScale="1.1147" yScale="1.1147" xOffset="6" yOffset="-5"/>
+    <contour>
+      <point x="332" y="47" type="line"/>
+      <point x="332" y="691" type="line"/>
+      <point x="328" y="695"/>
+      <point x="322" y="696"/>
+      <point x="317" y="696" type="curve" smooth="yes"/>
+      <point x="311" y="696" type="line" smooth="yes"/>
+      <point x="306" y="696"/>
+      <point x="302" y="696"/>
+      <point x="302" y="689" type="curve" smooth="yes"/>
+      <point x="302" y="94" type="line"/>
+    </contour>
+    <component base="flag16thUp" xScale="0.933" yScale="0.933" xOffset="302" yOffset="760"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-17 13:27:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

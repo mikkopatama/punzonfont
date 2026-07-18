@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accidentalDoubleFlat" format="2">
+  <advance width="400"/>
+  <unicode hex="E264"/>
+  <note>
+uniE264
+</note>
+  <anchor x="247" y="182" name="cutOutNE"/>
+  <outline>
+    <component base="accidentalFlat" xOffset="-2"/>
+    <component base="accidentalFlat" xOffset="180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-17 07:57:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

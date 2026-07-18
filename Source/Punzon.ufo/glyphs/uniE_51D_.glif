@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE51D" format="2">
+  <advance width="1187"/>
+  <unicode hex="E51D"/>
+  <note>
+uniE51D
+</note>
+  <outline>
+    <component base="quindicesima"/>
+    <component base="octaveBaselineB" xOffset="1002"/>
+    <component base="octaveBaselineM" xOffset="620"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-15 08:05:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accidentalParensRight" format="2">
+  <advance width="79"/>
+  <unicode hex="E26B"/>
+  <note>
+uniE26B
+</note>
+  <outline>
+    <contour>
+      <point x="12" y="109" type="line" smooth="yes"/>
+      <point x="12" y="107"/>
+      <point x="13" y="105"/>
+      <point x="14" y="104" type="curve" smooth="yes"/>
+      <point x="46" y="72"/>
+      <point x="54" y="24"/>
+      <point x="46" y="-61" type="curve" smooth="yes"/>
+      <point x="35" y="-154"/>
+      <point x="18" y="-179"/>
+      <point x="3" y="-204" type="curve" smooth="yes"/>
+      <point x="2" y="-205"/>
+      <point x="2" y="-206"/>
+      <point x="2" y="-207" type="curve" smooth="yes"/>
+      <point x="0" y="-219" type="line" smooth="yes"/>
+      <point x="0" y="-220"/>
+      <point x="1" y="-221"/>
+      <point x="3" y="-219" type="curve"/>
+      <point x="62" y="-162"/>
+      <point x="73" y="-104"/>
+      <point x="78" y="-54" type="curve" smooth="yes"/>
+      <point x="85" y="7"/>
+      <point x="66" y="97"/>
+      <point x="16" y="135" type="curve"/>
+      <point x="13" y="137"/>
+      <point x="9" y="136"/>
+      <point x="9" y="134" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-13 10:58:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

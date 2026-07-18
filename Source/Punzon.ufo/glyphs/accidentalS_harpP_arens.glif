@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accidentalSharpParens" format="2">
+  <advance width="508"/>
+  <unicode hex="F5EC"/>
+  <note>
+uniF5EC
+</note>
+  <outline>
+    <component base="accidentalParensLeft" yOffset="15"/>
+    <component base="accidentalParensRight" xOffset="429" yOffset="29"/>
+    <component base="accidentalSharp" xOffset="137"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-15 07:59:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

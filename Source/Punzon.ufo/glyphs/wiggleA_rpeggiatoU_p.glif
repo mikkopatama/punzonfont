@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wiggleArpeggiatoUp" format="2">
+  <advance width="196"/>
+  <unicode hex="EAA9"/>
+  <note>
+uniEAA9
+</note>
+  <anchor x="196" y="0" name="repeatOffset"/>
+  <outline>
+    <contour>
+      <point x="77" y="114" type="curve" smooth="yes"/>
+      <point x="51" y="114"/>
+      <point x="-5" y="69"/>
+      <point x="-16" y="55" type="curve" smooth="yes"/>
+      <point x="-19" y="51"/>
+      <point x="-20" y="46"/>
+      <point x="-20" y="43" type="curve" smooth="yes"/>
+      <point x="-20" y="38"/>
+      <point x="-17" y="33"/>
+      <point x="-10" y="33" type="curve" smooth="yes"/>
+      <point x="-6" y="33"/>
+      <point x="-3" y="36"/>
+      <point x="-1" y="38" type="curve" smooth="yes"/>
+      <point x="11" y="50"/>
+      <point x="24" y="63"/>
+      <point x="43" y="63" type="curve" smooth="yes"/>
+      <point x="88" y="63"/>
+      <point x="85" y="3"/>
+      <point x="133" y="3" type="curve" smooth="yes"/>
+      <point x="163" y="3"/>
+      <point x="234" y="69"/>
+      <point x="242" y="85" type="curve" smooth="yes"/>
+      <point x="243" y="87"/>
+      <point x="243" y="88"/>
+      <point x="243" y="89" type="curve" smooth="yes"/>
+      <point x="243" y="92"/>
+      <point x="240" y="94"/>
+      <point x="237" y="94" type="curve" smooth="yes"/>
+      <point x="231" y="94"/>
+      <point x="223" y="90"/>
+      <point x="219" y="87" type="curve" smooth="yes"/>
+      <point x="208" y="79"/>
+      <point x="198" y="71"/>
+      <point x="188" y="68" type="curve" smooth="yes"/>
+      <point x="174" y="64"/>
+      <point x="153" y="68"/>
+      <point x="145" y="76" type="curve" smooth="yes"/>
+      <point x="123" y="97"/>
+      <point x="104" y="114"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-13 13:26:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ventiduesimaBassaMb" format="2">
+  <advance width="1335"/>
+  <unicode hex="E51E"/>
+  <note>
+uniE51E
+</note>
+  <outline>
+    <component base="ventiduesima"/>
+    <component base="octaveBaselineM" xOffset="760"/>
+    <component base="octaveBaselineB" xOffset="1150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-14 22:21:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="restHBarMiddle" format="2">
+  <advance width="328"/>
+  <unicode hex="E4F0"/>
+  <note>
+uniE4F0
+</note>
+  <outline>
+    <component base="restWhole" xScale="1.3842" yScale="1.3842" xOffset="-36" yOffset="76"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 11:49:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

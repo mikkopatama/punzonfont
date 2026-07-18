@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE515" format="2">
+  <advance width="1252"/>
+  <unicode hex="E515"/>
+  <note>
+uniE515
+</note>
+  <outline>
+    <component base="quindicesima"/>
+    <component base="octaveSuperscriptM" xOffset="633" yOffset="-60"/>
+    <component base="octaveSuperscriptA" xOffset="1019" yOffset="-60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-15 08:05:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

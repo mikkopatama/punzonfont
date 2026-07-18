@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cClefReversed" format="2">
+  <advance width="686"/>
+  <unicode hex="E075"/>
+  <note>
+uniE05C
+</note>
+  <outline>
+    <component base="cClef" xScale="-1" xOffset="686"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-14 11:49:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

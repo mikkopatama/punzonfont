@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dynamicPF" format="2">
+  <advance width="754"/>
+  <unicode hex="E52E"/>
+  <outline>
+    <component base="dynamicPiano"/>
+    <component base="dynamicForte" xOffset="450"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 12:47:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noteheadParenthesisRight" format="2">
+  <advance width="99"/>
+  <unicode hex="E0F6"/>
+  <note>
+noteheadParenthesisRight
+</note>
+  <outline>
+    <component base="accidentalParensRight" xOffset="20" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-17 08:02:20 +0000</string>
+    </dict>
+  </lib>
+</glyph>

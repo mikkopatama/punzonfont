@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="metNote8thUp" format="2">
+  <advance width="534"/>
+  <unicode hex="ECA7"/>
+  <note>
+uniECA7
+</note>
+  <outline>
+    <component base="noteheadBlack" xScale="1.1147" yScale="1.1147" xOffset="3" yOffset="-5"/>
+    <component base="flag8thUp" xScale="0.9327" yScale="0.9327" xOffset="302" yOffset="723"/>
+    <contour>
+      <point x="332" y="47" type="line"/>
+      <point x="332" y="691" type="line"/>
+      <point x="328" y="695"/>
+      <point x="322" y="696"/>
+      <point x="317" y="696" type="curve" smooth="yes"/>
+      <point x="311" y="696" type="line" smooth="yes"/>
+      <point x="306" y="696"/>
+      <point x="302" y="696"/>
+      <point x="302" y="689" type="curve" smooth="yes"/>
+      <point x="302" y="94" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-17 13:25:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dynamicSforzatoFF" format="2">
+  <advance width="1159"/>
+  <unicode hex="E53B"/>
+  <outline>
+    <component base="dynamicSforzando"/>
+    <component base="dynamicZ" xOffset="828"/>
+    <component base="dynamicFF" xOffset="221"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 12:30:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

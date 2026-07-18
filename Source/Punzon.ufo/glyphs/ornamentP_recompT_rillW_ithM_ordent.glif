@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ornamentPrecompTrillWithMordent" format="2">
+  <advance width="580"/>
+  <unicode hex="E5BD"/>
+  <note>
+ornamentPrecompTrillWithMordent
+</note>
+  <outline>
+    <component base="ornamentTremblement"/>
+    <contour>
+      <point x="353" y="244" type="curve" smooth="yes"/>
+      <point x="353" y="-9" type="line" smooth="yes"/>
+      <point x="353" y="-17"/>
+      <point x="358" y="-22"/>
+      <point x="366" y="-22" type="curve" smooth="yes"/>
+      <point x="368" y="-22" type="line" smooth="yes"/>
+      <point x="376" y="-22"/>
+      <point x="381" y="-17"/>
+      <point x="381" y="-9" type="curve" smooth="yes"/>
+      <point x="381" y="244" type="line" smooth="yes"/>
+      <point x="381" y="252"/>
+      <point x="376" y="257"/>
+      <point x="368" y="257" type="curve" smooth="yes"/>
+      <point x="366" y="257" type="line" smooth="yes"/>
+      <point x="358" y="257"/>
+      <point x="353" y="252"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 19:38:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

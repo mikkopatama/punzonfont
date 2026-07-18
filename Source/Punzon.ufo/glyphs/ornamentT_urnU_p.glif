@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ornamentTurnUp" format="2">
+  <advance width="167"/>
+  <unicode hex="E56A"/>
+  <note>
+uniE56A
+</note>
+  <outline>
+    <component base="ornamentTurn" xScale="0" xyScale="-1" yScale="0" yxScale="1" yOffset="390"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 17:51:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

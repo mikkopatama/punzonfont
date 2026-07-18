@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="articTenutoAccentAbove" format="2">
+  <advance width="492"/>
+  <unicode hex="E4B4"/>
+  <note>
+uniE4B4
+</note>
+  <outline>
+    <component base="articAccentAbove" yOffset="53"/>
+    <component base="articTenutoAbove" xOffset="110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-13 11:57:30 +0000</string>
+    </dict>
+  </lib>
+</glyph>

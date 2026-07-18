@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accidentalSharpSharp" format="2">
+  <advance width="519"/>
+  <unicode hex="E269"/>
+  <note>
+uniE269
+</note>
+  <anchor x="482" y="199" name="cutOutNE"/>
+  <anchor x="487" y="-151" name="cutOutSE"/>
+  <outline>
+    <component base="accidentalSharp"/>
+    <component base="accidentalSharp" xOffset="270"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-17 07:56:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

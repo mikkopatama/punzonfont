@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="articTenutoStaccatoAbove" format="2">
+  <advance width="289"/>
+  <unicode hex="E4B2"/>
+  <note>
+uniE4B2
+</note>
+  <outline>
+    <component base="articStaccatoAbove" xOffset="110"/>
+    <component base="articTenutoAbove" yOffset="140"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-13 14:30:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

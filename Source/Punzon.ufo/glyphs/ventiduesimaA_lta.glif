@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ventiduesimaAlta" format="2">
+  <advance width="1428"/>
+  <unicode hex="E518"/>
+  <note>
+uniE518
+</note>
+  <outline>
+    <component base="octaveSuperscriptM" xOffset="800" yOffset="-60"/>
+    <component base="octaveSuperscriptA" xOffset="1186" yOffset="-60"/>
+    <component base="ventiduesima"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-14 22:17:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

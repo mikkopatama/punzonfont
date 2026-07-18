@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="metNoteQuarterUp" format="2">
+  <advance width="332"/>
+  <unicode hex="ECA5"/>
+  <note>
+uniECA5
+</note>
+  <anchor x="3" y="-40.67" name="stemDownNW"/>
+  <anchor x="331.837" y="45.162" name="stemUpSE"/>
+  <outline>
+    <contour>
+      <point x="302" y="72" type="line"/>
+      <point x="332" y="40" type="line"/>
+      <point x="332" y="631" type="line"/>
+      <point x="302" y="632" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="-144" type="curve" smooth="yes"/>
+      <point x="245" y="-144"/>
+      <point x="332" y="-42"/>
+      <point x="332" y="42" type="curve" smooth="yes"/>
+      <point x="332" y="111"/>
+      <point x="287" y="139"/>
+      <point x="211" y="139" type="curve" smooth="yes"/>
+      <point x="74" y="139"/>
+      <point x="3" y="33"/>
+      <point x="3" y="-41" type="curve" smooth="yes"/>
+      <point x="3" y="-87"/>
+      <point x="54" y="-144"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-17 13:24:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

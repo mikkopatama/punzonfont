@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="restHBarRight" format="2">
+  <advance width="377"/>
+  <unicode hex="E4F1"/>
+  <note>
+uniE4F1
+</note>
+  <outline>
+    <contour>
+      <point x="343" y="246" type="curve"/>
+      <point x="343" y="-254" type="line"/>
+      <point x="343" y="-263"/>
+      <point x="350" y="-270"/>
+      <point x="359" y="-270" type="curve" smooth="yes"/>
+      <point x="368" y="-270"/>
+      <point x="375" y="-263"/>
+      <point x="375" y="-254" type="curve" smooth="yes"/>
+      <point x="375" y="246" type="line" smooth="yes"/>
+      <point x="375" y="255"/>
+      <point x="368" y="262"/>
+      <point x="359" y="262" type="curve" smooth="yes"/>
+      <point x="350" y="262"/>
+      <point x="343" y="255"/>
+    </contour>
+    <component base="restHBarMiddle"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 11:50:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

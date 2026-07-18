@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="metNoteWhole" format="2">
+  <advance width="393"/>
+  <unicode hex="ECA2"/>
+  <note>
+uniECA2
+</note>
+  <outline>
+    <component base="noteheadWhole" xScale="1.0937" yScale="1.0937" yOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-16 17:10:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>
