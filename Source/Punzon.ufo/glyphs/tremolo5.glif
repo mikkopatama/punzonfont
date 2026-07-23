@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tremolo5" format="2">
+  <advance width="149"/>
+  <unicode hex="E224"/>
+  <note>
+uniE224
+</note>
+  <outline>
+    <component base="tremolo1" yOffset="-346"/>
+    <component base="tremolo1" yOffset="-181"/>
+    <component base="tremolo1" yOffset="-15"/>
+    <component base="tremolo1" yOffset="155"/>
+    <component base="tremolo1" yOffset="325"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-21 11:24:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

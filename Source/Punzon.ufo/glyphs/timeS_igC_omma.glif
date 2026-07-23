@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="timeSigComma" format="2">
+  <advance width="174"/>
+  <unicode hex="E096"/>
+  <note>
+uniE096
+</note>
+  <outline>
+    <component base="breathMarkComma" xScale="1.2763" yScale="1.2763" yOffset="-160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-22 22:19:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

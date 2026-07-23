@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="articUnstressAbove" format="2">
+  <advance width="372"/>
+  <unicode hex="E4B8"/>
+  <note>
+uniE4B8
+</note>
+  <outline>
+    <contour>
+      <point x="22" y="202" type="line"/>
+      <point x="0" y="202" type="line"/>
+      <point x="0" y="189" type="line" smooth="yes"/>
+      <point x="0" y="85"/>
+      <point x="84" y="1"/>
+      <point x="186" y="1" type="curve" smooth="yes"/>
+      <point x="289" y="1"/>
+      <point x="372" y="85"/>
+      <point x="372" y="189" type="curve" smooth="yes"/>
+      <point x="372" y="202" type="line"/>
+      <point x="350" y="202" type="line"/>
+      <point x="350" y="189" type="line" smooth="yes"/>
+      <point x="350" y="100"/>
+      <point x="277" y="27"/>
+      <point x="186" y="27" type="curve" smooth="yes"/>
+      <point x="96" y="27"/>
+      <point x="22" y="100"/>
+      <point x="22" y="189" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-21 15:10:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

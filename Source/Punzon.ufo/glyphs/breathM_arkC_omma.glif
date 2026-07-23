@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breathMarkComma" format="2">
+  <advance width="136"/>
+  <unicode hex="E4CE"/>
+  <note>
+uniE4CE
+</note>
+  <outline>
+    <contour>
+      <point x="66" y="232" type="curve" smooth="yes"/>
+      <point x="15" y="231"/>
+      <point x="0" y="190"/>
+      <point x="0" y="175" type="curve" smooth="yes"/>
+      <point x="0" y="141"/>
+      <point x="23" y="122"/>
+      <point x="45" y="122" type="curve" smooth="yes"/>
+      <point x="80" y="122"/>
+      <point x="91" y="108"/>
+      <point x="91" y="108" type="curve" smooth="yes"/>
+      <point x="99" y="99"/>
+      <point x="91" y="88"/>
+      <point x="88" y="84" type="curve" smooth="yes"/>
+      <point x="80" y="73"/>
+      <point x="76" y="68"/>
+      <point x="63" y="57" type="curve" smooth="yes"/>
+      <point x="43" y="41"/>
+      <point x="27" y="26"/>
+      <point x="24" y="24" type="curve" smooth="yes"/>
+      <point x="20" y="21"/>
+      <point x="16" y="13"/>
+      <point x="18" y="10" type="curve" smooth="yes"/>
+      <point x="20" y="7"/>
+      <point x="25" y="6"/>
+      <point x="35" y="7" type="curve" smooth="yes"/>
+      <point x="48" y="8"/>
+      <point x="99" y="46"/>
+      <point x="115" y="71" type="curve" smooth="yes"/>
+      <point x="128" y="92"/>
+      <point x="135" y="115"/>
+      <point x="136" y="153" type="curve" smooth="yes"/>
+      <point x="137" y="197"/>
+      <point x="105" y="233"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-22 22:20:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="timeSig4Turned" format="2">
+  <advance width="415"/>
+  <unicode hex="ECE4"/>
+  <outline>
+    <component base="timeSig4" xScale="-1" yScale="-1" xOffset="415" yOffset="-19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-22 18:31:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

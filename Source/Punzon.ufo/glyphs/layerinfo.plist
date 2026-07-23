@@ -5,13 +5,13 @@
     <key>lib</key>
     <dict>
       <key>GSCornerRadius</key>
-      <integer>13</integer>
+      <integer>15</integer>
       <key>GSExtrudeAngle</key>
       <integer>30</integer>
       <key>GSExtrudeOffset</key>
       <integer>15</integer>
       <key>GSOffsetHorizontal</key>
-      <integer>2</integer>
+      <integer>-4</integer>
       <key>GSOffsetVertical</key>
       <integer>0</integer>
     </dict>

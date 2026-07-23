@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accidentalFiveQuarterTonesSharpArrowUp" format="2">
+  <advance width="263"/>
+  <unicode hex="E276"/>
+  <outline>
+    <component base="accidentalDoubleSharp"/>
+    <contour>
+      <point x="233" y="129" type="curve"/>
+      <point x="263" y="129" type="line"/>
+      <point x="263" y="138"/>
+      <point x="264" y="165"/>
+      <point x="268" y="163" type="curve" smooth="yes"/>
+      <point x="330" y="136" type="line" smooth="yes"/>
+      <point x="337" y="133"/>
+      <point x="339" y="142"/>
+      <point x="337" y="146" type="curve" smooth="yes"/>
+      <point x="252" y="362" type="line" smooth="yes"/>
+      <point x="250" y="367"/>
+      <point x="248" y="370"/>
+      <point x="246" y="370" type="curve" smooth="yes"/>
+      <point x="244" y="370"/>
+      <point x="243" y="367"/>
+      <point x="241" y="362" type="curve" smooth="yes"/>
+      <point x="164" y="146" type="line" smooth="yes"/>
+      <point x="162" y="141"/>
+      <point x="165" y="133"/>
+      <point x="171" y="136" type="curve" smooth="yes"/>
+      <point x="225" y="164" type="line" smooth="yes"/>
+      <point x="229" y="165"/>
+      <point x="233" y="138"/>
+      <point x="233" y="128" type="curve" smooth="yes"/>
+      <point x="233" y="128"/>
+      <point x="233" y="129"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-21 07:57:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

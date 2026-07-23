@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reversedBracketBottom" format="2">
+  <advance width="469"/>
+  <unicode hex="E006"/>
+  <note>
+uniE006
+</note>
+  <outline>
+    <component base="bracketBottom" xScale="-1" xOffset="469"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-21 12:18:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

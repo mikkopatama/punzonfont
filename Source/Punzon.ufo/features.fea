@@ -4,6 +4,7 @@ languagesystem DFLT dflt;
 feature aalt {
 # automatic
 feature salt;
+feature ss03;
 } aalt;
 
 feature liga {
@@ -41,11 +42,31 @@ sub accidentalParensLeft accidentalFlat accidentalParensRight by accidentalFlatP
 } liga;
 
 feature salt {
-script DFLT;
-language dflt;
-lookup SUB_1 {
-	sub brace from [braceSmall braceLarge braceLarger];
-	sub keyboardPedalPed from [keyboardPedalPedNoDot];
-} SUB_1;
+# automatic
+sub brace from [brace.salt01 brace.salt02 brace.salt03];
+sub keyboardPedalPed from [keyboardPedalPed.salt01];
 } salt;
+
+feature ss03 {
+# automatic
+featureNames {
+	name "";
+};
+sub flag8thUp by flag8thUp.ss03;
+sub flag8thDown by flag8thDown.ss03;
+sub flag16thUp by flag16thUp.ss03;
+sub flag16thDown by flag16thDown.ss03;
+sub flag32ndUp by flag32ndUp.ss03;
+sub flag32ndDown by flag32ndDown.ss03;
+sub flag64thUp by flag64thUp.ss03;
+sub flag64thDown by flag64thDown.ss03;
+sub flag128thUp by flag128thUp.ss03;
+sub flag128thDown by flag128thDown.ss03;
+sub flag256thUp by flag256thUp.ss03;
+sub flag256thDown by flag256thDown.ss03;
+sub flag512thUp by flag512thUp.ss03;
+sub flag512thDown by flag512thDown.ss03;
+sub flag1024thUp by flag1024thUp.ss03;
+sub flag1024thDown by flag1024thDown.ss03;
+} ss03;
 

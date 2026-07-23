@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fermataLongHenzeBelow" format="2">
+  <advance width="628"/>
+  <unicode hex="E4CB"/>
+  <note>
+uniE4CB
+</note>
+  <outline>
+    <component base="fermataLongHenzeAbove" yScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-21 14:44:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

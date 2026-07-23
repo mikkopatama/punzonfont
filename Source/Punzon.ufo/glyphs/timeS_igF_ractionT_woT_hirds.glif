@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="timeSigFractionTwoThirds" format="2">
+  <advance width="446"/>
+  <unicode hex="E09B"/>
+  <note>
+uniE09B
+</note>
+  <outline>
+    <component base="timeSig2" xScale="0.5" yScale="0.5" xOffset="6" yOffset="130"/>
+    <component base="timeSig3" xScale="0.5" yScale="0.5" xOffset="230" yOffset="-112"/>
+    <component base="timeSigFractionalSlash" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-22 13:10:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

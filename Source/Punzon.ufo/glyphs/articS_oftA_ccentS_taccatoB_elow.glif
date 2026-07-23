@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="articSoftAccentStaccatoBelow" format="2">
+  <advance width="1052"/>
+  <unicode hex="ED43"/>
+  <outline>
+    <component base="articAccentAbove" xOffset="560" yOffset="-285"/>
+    <component base="articAccentAbove" xScale="-1" xOffset="492" yOffset="-285"/>
+    <component base="articStaccatoAbove" xOffset="491" yOffset="-165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-22 12:45:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

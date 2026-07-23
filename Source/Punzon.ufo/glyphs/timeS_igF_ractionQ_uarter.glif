@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="timeSigFractionQuarter" format="2">
+  <advance width="415"/>
+  <unicode hex="E097"/>
+  <note>
+uniE097
+</note>
+  <outline>
+    <component base="timeSig1" xScale="0.5" yScale="0.5" xOffset="4" yOffset="138"/>
+    <component base="timeSig4" xScale="0.5" yScale="0.5" xOffset="194" yOffset="-105"/>
+    <component base="timeSigFractionalSlash" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-22 13:10:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

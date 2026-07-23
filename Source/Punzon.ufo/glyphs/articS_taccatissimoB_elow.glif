@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="articStaccatissimoBelow" format="2">
+  <advance width="89"/>
+  <unicode hex="E4A7"/>
+  <note>
+uniE4A7
+</note>
+  <outline>
+    <component base="articStaccatissimoAbove" yScale="-1" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-21 15:01:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

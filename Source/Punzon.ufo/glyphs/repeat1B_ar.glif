@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="repeat1Bar" format="2">
+  <advance width="513"/>
+  <unicode hex="E500"/>
+  <note>
+uniE500
+</note>
+  <outline>
+    <component base="repeatBarSlash"/>
+    <component base="repeatBarLowerDot" xOffset="394"/>
+    <component base="repeatBarUpperDot" xOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-22 18:45:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tremoloFingered4" format="2">
+  <advance width="149"/>
+  <unicode hex="E228"/>
+  <note>
+uniE228
+</note>
+  <outline>
+    <component base="tremolo4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-21 11:25:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noteheadXOrnate" format="2">
+  <advance width="263"/>
+  <unicode hex="E0AA"/>
+  <note>
+uniE0AA
+</note>
+  <anchor x="11" y="-116" name="stemDownNW"/>
+  <anchor x="263" y="125" name="stemUpSE"/>
+  <outline>
+    <component base="accidentalDoubleSharp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-23 09:49:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accidentalThreeQuarterTonesSharpArrowDown" format="2">
+  <advance width="263"/>
+  <unicode hex="E277"/>
+  <outline>
+    <component base="accidentalDoubleSharp"/>
+    <contour>
+      <point x="11" y="-128" type="line"/>
+      <point x="11" y="-128"/>
+      <point x="11" y="-127"/>
+      <point x="11" y="-127" type="curve" smooth="yes"/>
+      <point x="11" y="-137"/>
+      <point x="7" y="-164"/>
+      <point x="3" y="-163" type="curve" smooth="yes"/>
+      <point x="-51" y="-135" type="line" smooth="yes"/>
+      <point x="-57" y="-132"/>
+      <point x="-60" y="-140"/>
+      <point x="-58" y="-145" type="curve" smooth="yes"/>
+      <point x="19" y="-361" type="line" smooth="yes"/>
+      <point x="21" y="-366"/>
+      <point x="22" y="-369"/>
+      <point x="24" y="-369" type="curve" smooth="yes"/>
+      <point x="26" y="-369"/>
+      <point x="28" y="-366"/>
+      <point x="30" y="-361" type="curve" smooth="yes"/>
+      <point x="115" y="-145" type="line" smooth="yes"/>
+      <point x="117" y="-141"/>
+      <point x="115" y="-132"/>
+      <point x="108" y="-135" type="curve" smooth="yes"/>
+      <point x="46" y="-162" type="line" smooth="yes"/>
+      <point x="42" y="-164"/>
+      <point x="41" y="-137"/>
+      <point x="41" y="-128" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-21 07:58:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>
